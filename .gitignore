@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs/CraftSynth.BuildingBlocks/v14
+/CraftSynth.BuildingBlocks/bin
+/CraftSynth.BuildingBlocks/obj
+/CraftSynth.BuildingBlocks.Generated/bin/Release
+/CraftSynth.BuildingBlocks.Generated/obj
+/CraftSynth.BuildingBlocks.Regenerator.BuildMinimalVersion/bin/Release
+/CraftSynth.BuildingBlocks.Regenerator.BuildMinimalVersion/obj
+/CraftSynth.BuildingBlocks.Regenerator.LinkFullVersion/bin/Release
+/CraftSynth.BuildingBlocks.Regenerator.LinkFullVersion/obj
